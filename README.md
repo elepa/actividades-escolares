@@ -3,8 +3,7 @@ La Federación Internacional de Escuelas de Bojo está abordando un proyecto muy
 Concretamente, debes crear un componente React que acepte datos de entrada, props, y los muestre en un
  formato adecuado en la página. Aplica estilos básicos al componente VisualizadorProps para mejorar la visualización de los datos.
   A tu porfolio sube el proyecto completo, incluyendo el código de tu nuevo componente, a un repositorio en
- GitHub. Asegúrate de que el repositorio contenga un README que explique brevemente el propósito del 
-componente 
+ GitHub.
 
 # Getting Started with Create React App
 
