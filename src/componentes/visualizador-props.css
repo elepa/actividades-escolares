@@ -1,0 +1,37 @@
+html, body{
+    margin:0px;
+    padding: 0px;
+    font-family:Arial, Helvetica, sans-serif
+}
+.contenedor{
+    background-color: rgb(128, 188, 245);
+    margin:50px;
+    padding: 5px;
+    max-width: 300px;
+    border-radius: 20px;
+    border: 5px solid blue;
+}
+.encabezado{
+    text-align: center;
+}
+ul{
+    max-width: 280;
+}
+li{
+    background-color: greenyellow;
+    color: blue;
+    list-style:none;
+    margin: 10px 0px 5px;
+    padding:5px;
+    border-radius: 5px;
+    height: 30px;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+}
+.btnborrar{
+    float:right;
+    height:29px;
+    font-weight: bold;
+}
